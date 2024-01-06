@@ -11,3 +11,13 @@ A Movies Recommendation App
 1. Copy the url or download the zipfile
 2. open on IDE then run pub get
 
+
+##Technology used:
+http
+tmdb api
+firebase auth
+firestore database
+
+
+
+
