@@ -1,16 +1,13 @@
-# advance_app
+# movieExplorer
 
-A new Flutter project.
+A Movies Recommendation App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#App Screenshot
+![Screenshot 2024-01-04 231810](https://github.com/AnasFn/MovieExplo/assets/114518466/364a2242-c5a7-40db-8f43-34ddbb1d7b67)
 
-A few resources to get you started if this is your first Flutter project:
+#Step to Clone
+1. Copy the url or download the zipfile
+2. open on IDE then run pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
