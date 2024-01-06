@@ -13,10 +13,10 @@ A Movies Recommendation App
 
 
 **Technology used:**
-“*” http
-“*” tmdb api
-“*” firebase auth
-“*” firestore database
+* http
+* tmdb api
+* firebase auth
+* firebase database
 
 
 
