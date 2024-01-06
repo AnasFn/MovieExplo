@@ -16,7 +16,7 @@ A Movies Recommendation App
 * http
 * tmdb api
 * firebase auth
-* firebase database
+* firestore database
 
 
 
